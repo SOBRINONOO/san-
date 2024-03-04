@@ -1,0 +1,40 @@
+h1{
+color: rgb(255, 0, 0);
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+font-size: 50px;
+}
+
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:left;
+    color: orangered;
+}
+
+img{
+    width: 600px;
+    margin: 0 auto;
+    display: block;
+    border-radius:50px;
+    height: auto;
+}
+
+video{
+    width: 600px;
+    margin: 0 auto;
+    display: block;
+    border-radius: 50px;
+    height: auto;
+}
+    
+.video {
+    position: fixed;
+    top: 0;
+    nav-left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+    border-radius: 0;
+}
+
